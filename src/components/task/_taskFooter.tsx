@@ -6,7 +6,7 @@ import {
   FormControlLabel,
 } from '@mui/material';
 import PropTypes from 'prop-types';
-import { ITaskFooter } from './interfaces/iTaskFooter';
+import { ITaskFooter } from './interfaces/ITaskFooter';
 
 export const TaskFooter: FC<
   ITaskFooter
